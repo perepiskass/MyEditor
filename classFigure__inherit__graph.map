@@ -1,0 +1,5 @@
+<map id="Figure" name="Figure">
+<area shape="rect" id="node2" href="$classLine.html" title="Дочерний класс рисующий линии. " alt="" coords="5,131,79,208"/>
+<area shape="rect" id="node3" href="$classSquare.html" title="Дочерний класс рисующий квадраты. " alt="" coords="103,131,197,208"/>
+<area shape="rect" id="node4" href="$classTriangle.html" title="Дочерний класс рисующий треугольники. " alt="" coords="221,131,316,208"/>
+</map>
